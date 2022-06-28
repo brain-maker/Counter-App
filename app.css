@@ -15,7 +15,7 @@
   justify-content: center;
 }
 .content{
-  background-color: darkcyan;
+  background-color: cyan;
   width:300px;
   display:flex;
   flex-direction:column;
